@@ -1,0 +1,21 @@
+.animals{
+    display:flex;
+    justify-content: space-between;
+    
+}
+
+.MAIN{
+    display:flex;
+    color: aquamarine;
+    
+    margin-left: 50px;
+}
+p{
+    background-color:#ff0000 ;
+}
+.snake{
+    display:flex;
+    justify-content: space-evenly;
+    padding-left: 10px;
+
+}
